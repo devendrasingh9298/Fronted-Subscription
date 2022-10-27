@@ -1,0 +1,98 @@
+body{
+    background-color:rgb(6,6,54);
+    justify-content: center;
+    height: 100%;
+}
+.container{
+    border-radius:11px;
+    margin: 40px;
+}
+.community{
+    background-color: rgb(255,253,253);
+    border-radius: 11px 11px 0 0;
+    height: 250px;
+    width: 100%;
+    justify-content: center;
+}
+.community h2{
+    text-align: center;
+    padding-top: 20px;
+    color:rgb(20,169,219);
+}
+.community h3{
+    text-align: center;
+    color: yellowgreen;
+    font-family:Arial, Helvetica, sans-serif;
+}
+.community p{
+    text-align: center;
+    color: rgb(169, 168, 168);
+    font-weight: bold;
+    font-family:Arial, Helvetica, sans-serif ;
+}
+.card-deails{
+    height: 250px;
+    width: 100%;
+    margin-bottom: 90px;
+}
+.card{
+    width: 50%;
+    background-color: rgb(15,67,66);
+    height: 250px;
+    float: left;
+    border-radius: 0 0 0 11px;
+    justify-content: center;
+    text-align: center;
+}
+.card p{
+    text-align: center;
+    color: white;
+    font-size: 18px;
+    font-family:Arial, Helvetica, sans-serif;
+}
+.card h1{
+    color: white;
+    font-family:Arial, Helvetica, sans-serif;
+}
+.card span{
+    font-size: 20px;
+    font-weight: 100;
+}
+.card button{
+        background-color: yellowgreen;
+        text-align: center;
+        width: 180px;
+        height: 40px;
+        border-radius: 8px;
+        border: none;
+        outline: none;
+        color: white;
+        font-weight:bold;
+        font-size: 18px;
+
+}
+.why-us-items{
+    text-align: center;
+    color: white;
+    font-weight: bold;
+    font-size: 20px;
+}
+.why-us h4{
+    color: white;
+    font-family:Arial, Helvetica, sans-serif;
+}
+.why-us p{
+    color: white;
+    padding-left: 30px;
+    padding-right: 30px;
+    text-align: center;
+    font-family:Arial, Helvetica, sans-serif;
+}
+.why-us{
+    background-color: rgba(85, 145, 142, 0.698);
+    width: 50%;
+    height: 250px;
+    float: right;
+    border-radius: 0 0 11px 0;
+    text-align: center;
+}
